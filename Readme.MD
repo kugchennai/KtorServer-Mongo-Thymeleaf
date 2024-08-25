@@ -8,6 +8,14 @@
 
 This Ktor application demonstrates basic CRUD (Create, Read, Update, Delete) operations using MongoDB as the database and Thymeleaf for rendering HTML views.
 
+This app was created as part of the co-learning session
+
+Luma Link:
+https://lu.ma/opk4nkdr
+
+Subscribe to our events calender:
+https://lu.ma/kugchennai
+
 **Technologies:**
 
 * Ktor
@@ -42,7 +50,7 @@ https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/#std-label-
    ./gradlew run
    ```
 5. You will start seeing a screen like this if you have data in your db
-
+   ![sample](images/screenshot.png)
 
 6. Visit the [Databases.kt](src/main/kotlin/example/com/plugins/Databases.kt) file to view the list of api's available
 
