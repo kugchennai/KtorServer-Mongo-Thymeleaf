@@ -1,8 +1,8 @@
 # Ktor Server CRUD App with MongoDB and Thymeleaf
 
-![Ktor](https://img.shields.io/badge/Ktor-1.6.7-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-3.0.12-blue)
+![Ktor](https://img.shields.io/badge/Ktor-2.3.12-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-4.9.0-green)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-jvm-blue)
 
 **Description:**
 
